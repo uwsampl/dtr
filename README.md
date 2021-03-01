@@ -1,2 +1,2 @@
 # dtr
-Dynamic Tensor Rematerialization
+This tutorial include resources and examples for using dynamic tensor rematerialization.
